@@ -10,6 +10,4 @@ public class ProductApplication {
 		SpringApplication.run(ProductApplication.class, args);
 	}
 
-	sdfs
-
 }
